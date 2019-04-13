@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="QCAR_Dataset_config.xsd">
+  <Tracking>
+    <ObjectTarget name="multimeter" />
+    <ObjectTarget name="gluc" />
+    <ObjectTarget name="vaporub" />
+    <ObjectTarget name="appy" />
+    <ObjectTarget name="panadol" />
+    <ObjectTarget name="bible" />
+    <ObjectTarget name="cigarette" />
+    <ObjectTarget name="watch2" />
+    <ObjectTarget name="phone" />
+    <ObjectTarget name="sugarfront" />
+    <ObjectTarget name="luxsoap" />
+    <ObjectTarget name="matchbox" />
+  </Tracking>
+</QCARConfig>

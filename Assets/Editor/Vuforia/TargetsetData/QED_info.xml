@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="QCAR_Dataset_config.xsd">
+  <TargetSet version="5.0" toolVersion="4.2.0">
+    <ObjectTarget bbox="0.0 0.0 0.0 0.1 0.1 0.1" captureAppVersion="6.5.0" lastSaved="2018-10-31 23:11:58" name="100rs" targetId="b583586efee84ba4aaae132da05529a4" version="2.0" />
+    <ObjectTarget bbox="0.0 0.0 0.0 0.1 0.1 0.1" captureAppVersion="6.5.0" lastSaved="2018-10-31 23:19:30" name="10rs" targetId="356750b5912247d1944f8c73a1c84b85" version="2.0" />
+    <ObjectTarget bbox="0.0 0.0 0.0 0.1 0.1 0.1" captureAppVersion="6.5.0" lastSaved="2018-10-31 22:56:51" name="multimeter" targetId="61a85de6be714aa685f3e1f57a42033e" version="2.0" />
+    <ObjectTarget bbox="0.0 0.0 0.0 0.1 0.1 0.1" captureAppVersion="6.5.0" lastSaved="2018-10-31 22:52:47" name="gluc" targetId="33c9dc5935e84e9dbc32b8a9ebb9b985" version="2.0" />
+    <ObjectTarget bbox="0.0 0.0 0.0 0.1 0.1 0.1" captureAppVersion="6.5.0" lastSaved="2018-10-23 20:39:17" name="vaporub" targetId="b5ebabe6e7ae44609308212a8a0e33f2" version="2.0" />
+    <ObjectTarget bbox="0.0 0.0 0.0 0.1 0.1 0.1" captureAppVersion="6.5.0" lastSaved="2018-10-31 22:52:27" name="appy" targetId="76ceecc0eb8d4c2baad0dd5a4e8ecc0f" version="2.0" />
+    <ObjectTarget bbox="0.0 0.0 0.0 0.1 0.1 0.1" captureAppVersion="6.5.0" lastSaved="2018-10-31 22:59:09" name="panadol" targetId="91c4665df5854189ac2d1270b9728e86" version="2.0" />
+    <ObjectTarget bbox="0.0 0.0 0.0 0.1 0.1 0.1" captureAppVersion="6.5.0" lastSaved="2018-10-31 23:11:38" name="bible" targetId="45a2ff9e308c40b2bfc43fc3be9897c7" version="2.0" />
+    <ObjectTarget bbox="0.0 0.0 0.0 0.1 0.1 0.1" captureAppVersion="6.5.0" lastSaved="2018-10-29 11:10:06" name="cigarette" targetId="6b28bef5f56c42a8aaa7c16eba03ea37" version="2.0" />
+    <ObjectTarget bbox="0.0 0.0 0.0 0.1 0.1 0.1" captureAppVersion="6.5.0" lastSaved="2018-10-28 23:37:34" name="watch2" targetId="a3eac990ccdf4e80a1963b83f8c817e0" version="2.0" />
+    <ObjectTarget bbox="0.0 0.0 0.0 0.1 0.1 0.1" captureAppVersion="6.5.0" lastSaved="2018-10-28 23:17:06" name="phone" targetId="bc0103b55cc446a9af19611d5b0db895" version="2.0" />
+    <ObjectTarget bbox="0.0 0.0 0.0 0.1 0.1 0.1" captureAppVersion="6.5.0" lastSaved="2018-10-28 23:07:59" name="sugarfront" targetId="63071ab5cc3e43edaa99deb4a7fb7420" version="2.0" />
+    <ObjectTarget bbox="0.0 0.0 0.0 0.1 0.1 0.1" captureAppVersion="6.5.0" lastSaved="2018-10-22 18:00:05" name="luxsoap" targetId="a2685793ed4f49c59ec5663e6c2bc83a" version="2.0" />
+    <ObjectTarget bbox="0.0 0.0 0.0 0.1 0.1 0.1" captureAppVersion="6.5.0" lastSaved="2018-10-22 18:16:04" name="matchbox" targetId="fe1940fbcbd94632b47423ab25fab1b0" version="2.0" />
+  </TargetSet>
+</QCARInfo>

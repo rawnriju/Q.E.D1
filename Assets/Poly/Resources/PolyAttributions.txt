@@ -1,0 +1,43 @@
+This project uses the following items from Poly (http://poly.google.com):
+
+Title: Cigarette
+Author: Zgeal
+URL: https://poly.google.com/view/2RL6h8MbDPb
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Dog space NoRot
+Author: Robert Mark
+URL: https://poly.google.com/view/54-WvQqR8dJ
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: El Gato
+Author: Neko_Friends
+URL: https://poly.google.com/view/6vcI1NN-kcO
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Red strokes briovr
+Author: sofi ka
+URL: https://poly.google.com/view/cqNbB2fndW8
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Skull and XBones
+Author: Jon Corralejo
+URL: https://poly.google.com/view/a1x-t8IFmIe
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Spectacle Test
+Author: Anonymous
+URL: https://poly.google.com/view/4zQQJwST-rl
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: W
+Author: Zaw Imagineering
+URL: https://poly.google.com/view/bIQEKXtivh9
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
